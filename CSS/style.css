@@ -12,8 +12,11 @@ h1 {
 p {
     font-size: 3rem;
 }
-.Quote {
+.text {
     font-size: 3rem;
+}
+.owner {
+    font-size: 2rem;
 }
 .home-content {
     width: 90%;
