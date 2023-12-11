@@ -1,0 +1,43 @@
+body {
+    font-family: 'Amiri', serif;
+}
+#home {
+    background-image: url(../Images/fog-7547298.jpg);
+    background-size: cover;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
+}
+h1 {
+    font-size: 6rem;
+}
+p {
+    font-size: 3rem;
+}
+.Quote {
+    font-size: 3rem;
+}
+.home-content {
+    width: 90%;
+}
+.contain {
+    width: 100%;
+    height: 150px;
+
+}
+button {
+    background-color: rgba(5, 54, 117, 0.911);
+    font-size: 25px;
+}
+button:hover {
+    background-color: rgba(3, 46, 102, 0.918);
+}
+
+@media screen and (max-width: 800px) {
+    html {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 600px) {
+    html {
+        font-size: 10px;
+    }
+}
